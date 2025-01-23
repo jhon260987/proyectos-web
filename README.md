@@ -1,2 +1,0 @@
-# proyectos-web
-proyecto DROGUERIA
